@@ -1,0 +1,5 @@
+pycountry
+Pyjwt
+bs4
+user_agent
+telebot
